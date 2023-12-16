@@ -1,0 +1,98 @@
+{
+  "GAMEPLAY_BookBigOne": {
+    "English": "Local Legends - The Big One",
+    "Turkish": "Yerel Efsaneler - Büyük Olan"
+  },
+  "GAMEPLAY_BookBigOneDescription": {
+    "English": "A book with details about a giant fish that makes its home in a magical pond.",
+    "Turkish": "Büyülü bir gölette evini yapan dev bir balık hakkında ayrıntılar içeren bir kitap."
+  },
+  "GAMEPLAY_BookGhostStag": {
+    "English": "Local Legends - Ghost Stag",
+    "Turkish": "Yerel Efsaneler - Hayalet Geyik"
+  },
+  "GAMEPLAY_BookGhostStagDescription": {
+    "English": "A book with details about a spectral creature thought to inhabit a local farmstead.",
+    "Turkish": "Yerel bir çiftlik evinde yaşadığı düşünülen hayalet bir yaratık hakkında ayrıntılar içeren bir kitap."
+  },
+  "GAMEPLAY_BookLostCave": {
+    "English": "Local Legends - Lost Cave",
+    "Turkish": "Yerel Efsaneler - Kayıp Mağara"
+  },
+  "GAMEPLAY_BookLostCaveDescription": {
+    "English": "A book with details about a strange cave thought to exist on the margins of Pleasant Valley.",
+    "Turkish": "Pleasant Vadisi'nin sınırlarında var olduğu düşünülen garip bir mağara hakkında ayrıntılar içeren bir kitap."
+  },
+  "GAMEPLAY_BookPlantsGuide": {
+    "English": "Medicinal Plants of Great Bear",
+    "Turkish": "Büyük Ayı'nın Şifalı Bitkileri"
+  },
+  "GAMEPLAY_BookPlantsGuideDescription": {
+    "English": "A note with information about how to use plants to cure maladies.",
+    "Turkish": "Hastalıkların tedavisinde bitkilerin nasıl kullanılacağına dair bilgiler içeren bir not."
+  },
+  "GAMEPLAY_BookSasquatch": {
+    "English": "Local Legends - Sasquatch",
+    "Turkish": "Yerel Efsaneler - Koca Ayak"
+  },
+  "GAMEPLAY_BookSasquatchDescription": {
+    "English": "A book with details about a potential sasquatch living in the area.",
+    "Turkish": "Bölgede yaşayan potansiyel bir koca Ayak hakkında ayrıntılar içeren bir kitap."
+  },
+  "GAMEPLAY_FlyerBingo": {
+    "English": "Old Flyer",
+    "Turkish": "Eski Afiş"
+  },
+  "GAMEPLAY_FlyerBingoDescription": {
+    "English": "An old flyer detailing an upcoming bingo event.",
+    "Turkish": "Yaklaşan bir bingo etkinliğini detaylandıran eski bir afiş."
+  },
+  "GAMEPLAY_GoldCross": {
+    "English": "Gold Cross",
+    "Turkish": "Altın Haç"
+  },
+  "GAMEPLAY_GoldCrossDescription": {
+    "English": "A large gold cross, adorned with a gem in its center.",
+    "Turkish": "Ortasında bir mücevherle süslenmiş büyük bir altın haç."
+  },
+  "GAMEPLAY_GoldNuggetA": {
+    "English": "Gold Nugget",
+    "Turkish": "Altın Külçesi"
+  },
+  "GAMEPLAY_GoldNuggetADescription": {
+    "English": "A large nugget of gold, not worth much these days, but very pretty.",
+    "Turkish": "Büyük bir altın külçesi, bugünlerde pek değerli değil ama çok güzel."
+  },
+  "GAMEPLAY_IDcard": {
+    "English": "ID Card",
+    "Turkish": "Kimlik Kartı"
+  },
+  "GAMEPLAY_IDcardDescription": {
+    "English": "A photographic ID card. The detailes are scratched and unreadable.",
+    "Turkish": "Fotoğraflı bir kimlik kartı. Detaylar çizilmiş ve okunamıyor."
+  },
+  "GAMEPLAY_RosaryA": {
+    "English": "Holy Rosary",
+    "Turkish": "Kutsal Tesbih"
+  },
+  "GAMEPLAY_RosaryADescription": {
+    "English": "A necklace of knots and beads, usually used in prayers.",
+    "Turkish": "Genellikle dualarda kullanılan düğüm ve boncuklardan oluşan bir kolye."
+  },
+  "GAMEPLAY_SatchelExplosive": {
+    "English": "Explosives Satchel",
+    "Turkish": "Patlayıcı Çantası"
+  },
+  "GAMEPLAY_SatchelExplosiveDescription": {
+    "English": "A satchel full of old blasting caps. Miners used them to detonate dynamite in controlled explosions.",
+    "Turkish": "Eski patlayıcı başlıklarla dolu bir çanta. Madenciler bunları kontrollü patlamalarda dinamit patlatmak için kullanırdı."
+  },
+  "GAMEPLAY_ScribbledMap": {
+    "English": "Scribbled Map",
+    "Turkish": "Karalanmış Harita"
+  },
+  "GAMEPLAY_ScribbledMapDescription": {
+    "English": "A scribbled map detailing the surroundings of Thomson's Crossing, with a red path leading somewhere.",
+    "Turkish": "Thomson's Crossing'in çevresini detaylandıran karalanmış bir harita ve bir yere giden kırmızı bir yol."
+  }
+}
